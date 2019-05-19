@@ -218,7 +218,7 @@ then
 clear
 figlet -f slant "TUNGGU GBLK"|lolcat
 sleep 1
-git clone https://github.com/wahyuandika/YahooCloning
+git clone https://github.com/wahyuandhika/YahooCloning
 cd YahooCloning
 python2 cloning.py
 fi
