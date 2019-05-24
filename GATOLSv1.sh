@@ -12,12 +12,11 @@ ku='\033[33;1m' #kuning
 clear
 figlet -f slant 'GATOLSv1' | lolcat
 echo $ij'~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'
-echo $ij'| Name         : GUS10N                                |'
+echo $ij'| Name         : 3RR0R                                 |'
 echo $ij'| Facebook     : Moreno ID                             |'
 echo $ij'| Instagram    : @moreno__id                           |'
 echo $ij'| Github       : https://github.com/Moreno-ID          |'
 echo $ij'| WhatsApp     : +6285332814651                        |'
-echo $ij'| Team         : NoTeam[NeedTeam]                      |'
 echo $ij'| Thanks To    : ALLAH S.W.T                           |'
 echo $ij'~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'
 
